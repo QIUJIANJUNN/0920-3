@@ -1,0 +1,12 @@
+appId: com.example.lar
+productName: LAR
+copyright: Copyright © 2024 June Tien
+directories:
+  output: dist
+  buildResources: resources
+files:
+  - from: .
+    filter:
+      - package.json
+      - app
+publish: null
